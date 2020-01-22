@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-- [`5.21.0` (*5.21.0/Dockerfile*)](https://https://github.com/emmatech-docker/dcm4chee-arc-mysql/blob/master/Dockerfile)
+- [`5.21.0` (*5.21.0/Dockerfile*)](https://github.com/emmatech-docker/dcm4chee-arc-mysql/blob/master/Dockerfile)
 - [`5.21.0-secure` (*5.21.0-secure/Dockerfile*)](https://github.com/dcm4che-dockerfiles/dcm4chee-arc-psql/blob/5.21.0-secure/Dockerfile)
 - [`5.21.0-secure-ui` (*5.21.0-secure-ui/Dockerfile*)](https://github.com/dcm4che-dockerfiles/dcm4chee-arc-psql/blob/5.21.0-secure-ui/Dockerfile)
 
